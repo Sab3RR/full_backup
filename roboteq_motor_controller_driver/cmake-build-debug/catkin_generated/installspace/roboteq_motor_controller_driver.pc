@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: roboteq_motor_controller_driver
+Description: Description of roboteq_motor_controller_driver
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: roscpp serial std_msgs message_runtime

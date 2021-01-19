@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/sab3r/ws/src/roboteq_motor_controller_driver/cmake-build-debug/devel/setup.sh

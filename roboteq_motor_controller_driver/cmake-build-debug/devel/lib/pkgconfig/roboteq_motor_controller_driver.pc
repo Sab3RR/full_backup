@@ -1,0 +1,8 @@
+prefix=/home/sab3r/ws/src/roboteq_motor_controller_driver/cmake-build-debug/devel
+
+Name: roboteq_motor_controller_driver
+Description: Description of roboteq_motor_controller_driver
+Version: 0.0.0
+Cflags: -I/home/sab3r/ws/src/roboteq_motor_controller_driver/cmake-build-debug/devel/include -I/home/sab3r/ws/src/roboteq_motor_controller_driver/include
+Libs: -L${prefix}/lib 
+Requires: roscpp serial std_msgs message_runtime
